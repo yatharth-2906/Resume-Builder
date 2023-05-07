@@ -7,4 +7,4 @@ Resume builder applications are used by job seekers to create and customize thei
 
 # Screenshoot
 
-![resume_blur](https://user-images.githubusercontent.com/97800277/236662093-c2ef4db0-b759-44ab-b128-73532f5e802e.png)
+![dublin-resume-templates](https://user-images.githubusercontent.com/97800277/236663135-16e4832e-98f6-4537-97db-128d5f0cb869.png)
